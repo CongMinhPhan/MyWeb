@@ -1,0 +1,54 @@
+﻿@model MyApp.Models.ViewModels.ProductVM;
+@{
+    ViewData["Title"] = "Index";
+}
+@if (TempData["success"] != null)
+{
+    <h2>@TempData["success"]</h2>
+}
+<div class="container p-4" >
+    <div class="row p-3">
+        <div class="col-6">
+            <h2 class="text-primary">List of Products</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a class="btn btn-primary" asp-action="CreateUpdate" asp-controller="Product"><i class="bi bi-plus-circle"></i>&nbsp;Create New Product
+                </a>
+        </div>
+    </div>
+</div>
+
+<table id="myTable" class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th> Pro Name</th>
+            <th> Pro Descripition</th>
+            <th> Pro Price</th>
+@*             <th> Pro Image</th>
+            <th> Pro Cate Id</th> *@
+            
+        </tr>
+    </thead>
+    @* <tbody>
+        @foreach (var item in Model.Products)
+        {
+        <tr>
+            <td> @item.Name </td>
+            <td> @item.DisplayOrder</td>
+            <td role="group" >
+                    <a class="btn btn-primary " asp-action="CreateUpdate" asp-controller="Category" asp-route-id="@item.Id">
+                        <i class="bi bi-pencil-square"></i>
+                     </a>
+                    <a class="btn btn-primary " asp-action="Delete" asp-controller="Category" asp-route-id="@item.Id">
+                        <i class="bi bi-trash"></i>
+                    </a>
+            </td>
+        </tr>
+        }
+    </tbody> *@
+</table>
+ 
+@section scripts{
+    <script src="~/js/Product.js"></script>
+}
+ 

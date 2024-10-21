@@ -1,0 +1,14 @@
+D:\MyAppWeb\MyApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\MyAppWeb\MyApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\MyAppWeb\MyApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\MyAppWeb\MyApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\MyAppWeb\MyApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll

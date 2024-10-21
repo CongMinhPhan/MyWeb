@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyApp",
+    "\\MyApp\\MyAppWeb",
+    "\\MyApp\\MyAppWeb\\Areas",
+    "\\MyApp\\MyAppWeb\\Areas\\Admin",
+    "\\MyApp\\MyAppWeb\\Areas\\Admin\\Controllers",
+    "\\MyApp\\MyAppWeb\\Areas\\Admin\\Views",
+    "\\MyApp\\MyAppWeb\\Areas\\Admin\\Views\\Category",
+    "\\MyApp\\MyAppWeb\\Models",
+    "\\MyApp\\MyAppWeb\\Models\\ViewModels"
+  ],
+  "SelectedNode": "\\MyApp\\MyAppWeb\\Models\\ViewModels\\CategoryVM.cs",
+  "PreviewInSolutionExplorer": false
+}
